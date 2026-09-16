@@ -1,0 +1,6 @@
+hello world!
+this  is a  new  line append operation taking  place!
+first line /nsecond line  
+third line 
+first line /nsecond line  
+third line 
