@@ -7,7 +7,7 @@ It creates an instance of the flask class, which will be your wsgi (web server g
 ### wsgi application
 app=Flask(__name__)
 
-@app.route("/")
+@app.route("/index",methods='GET')
 def welcome():
     return  render_template("index.html")
 
